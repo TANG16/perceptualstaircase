@@ -1,4 +1,5 @@
 # perceptualstaircase
+
 # MATLAB code used to evaluate perceptual thresholds for detecting basic and complex facial expressions.
 
 # This task was designed to measure the minimum amount of perceptual information (i.e. perceptual threshold) necessary to discriminate each expression from a neutral face. It is a two-alternative forced-choice fixed step-size perceptual staircase procedure (Cornsweet, 1962) and was coded for a MacBook Pro computer (12-inch monitor) using MATLAB with Psychophysics Toolbox (Brainard, 1997). 
